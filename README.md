@@ -1,7 +1,9 @@
 # selectiveRepeat-Using-SocketProgramming
 
-Compile as makefile all
-run as ./server first
+Compile as : makefile all
+
+run as : ./server
+ 
 and then in a different cmd ./client
 
 Description:
